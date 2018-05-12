@@ -1,0 +1,29 @@
+_repo: Corleone--A-Tale-of-Sicily_44311
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44311-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Crawford, F. Marion (Francis Marion)
+    alias: Crawford, Francis Marion
+    birthdate: 1854
+    deathdate: 1909
+    gutenberg_agent_id: '1316'
+    url: http://www.gutenberg.org/2009/agents/1316
+    wikipedia: http://en.wikipedia.org/wiki/Francis_Marion_Crawford
+description: ''
+gutenberg_issued: '2013-11-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44311'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Sicily (Italy) -- Fiction'
+- !lcsh 'Mafia -- Fiction'
+title: 'Corleone: A Tale of Sicily'
+url: http://www.gutenberg.org/ebooks/44311
